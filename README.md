@@ -1,11 +1,11 @@
 # Taskify-api
 Construindo e consumindo API's 
 
-Utilizando dependências:
+# Utilizando dependências:
 Flyway;
 Lombok;
 DevTools;
 Spring Web;
 Spring Data JPA;
-Banco de Dados MySql;;
+Banco de Dados MySql;
 
